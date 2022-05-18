@@ -16,3 +16,7 @@
 2. Help Know them the way they are spending  ( #SEE )
 3. Can record balance sheet of transactions done between people (Loan Book) -- Interconnected between two account holders #(MAINTAIN)
 
+### UI DECIDED
+
+(RELATED TO PEOPLE DATA)
+[PROFILE PAGE, PEOPLES PAGE]
