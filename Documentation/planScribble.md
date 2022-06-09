@@ -20,3 +20,12 @@
 
 (RELATED TO PEOPLE DATA)
 [PROFILE PAGE, PEOPLES PAGE]
+
+#### Some Ideas related to how details can be managed
+ (About Sheet)
+1. A sheet can have one or multiple people 
+2. A sheet will have it's own customizable categories
+3. A sheet can be shareable betweeen people 
+
+### Figma Brainstorm File
+https://www.figma.com/file/3OMju3UFAiK3kwoJyV11Hh/Untitled?node-id=0%3A1
