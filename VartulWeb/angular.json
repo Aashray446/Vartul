@@ -3,13 +3,9 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "VartulWeb": {
+    "vartulWeb": {
       "projectType": "application",
-      "schematics": {
-        "@schematics/angular:application": {
-          "strict": true
-        }
-      },
+      "schematics": {},
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -68,10 +64,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "VartulWeb:build:production"
+              "browserTarget": "vartulWeb:build:production"
             },
             "development": {
-              "browserTarget": "VartulWeb:build:development"
+              "browserTarget": "vartulWeb:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -79,7 +75,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "VartulWeb:build"
+            "browserTarget": "vartulWeb:build"
           }
         },
         "test": {
@@ -101,6 +97,5 @@
         }
       }
     }
-  },
-  "defaultProject": "VartulWeb"
+  }
 }
