@@ -34,4 +34,5 @@ https://www.figma.com/file/3OMju3UFAiK3kwoJyV11Hh/Untitled?node-id=0%3A1
 1. Currently doing research on various potential users , i.e Stundents and small shopkeepers 
 2. Got to know that Students badly requires a easy bill sharing system where they can keep lending transactions with others , and same goes for shopkeepers 
 3. Current Challenge is in what way we can make Shopkeepers migrate to our App. The bridge is literacy of mobile and the convenice they get while writing in notebook is unmatchable. So what we can do to reduce that gap and even provide something else that can over shadow that gap.
-4. Any suggestions and solution will be appreciated in the discussion session. (Will be updating the further progress)
+4. The avaibililty of internet is the issue, even a disturbance for one hour can halt many transactions, So there is great a idea I got from my friend is to provide offline transaction based on blockchain technology so that it can later uploaded to server when the internet comes back. 
+5. Any suggestions and solution will be appreciated in the discussion session. (Will be updating the further progress)
